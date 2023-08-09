@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![QingLong Yu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qinglongyu23)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **qinglongyu23/qinglongyu23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
